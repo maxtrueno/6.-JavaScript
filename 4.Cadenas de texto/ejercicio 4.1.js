@@ -1,9 +1,9 @@
 //Crea un archivo JS que contenga las siguientes líneas
 
 // Una cadena de texto con tu Nombre
-var nombre = "miguel";
+var nombre = "Miguel";
 // Otra cadena de texto con tu Apellido
-var apellido ="jurado";
+var apellido ="Angel";
 // Una cadena de texto que se llame "estudiante" concatenando tu Nombre y tu Apellido con un espacio entre medias
 var estudiante = ` ${nombre} ${apellido}`;
 // Una cadena de texto que se llame "estudianteMayus" que contenga la cadena estudiante pero todo en mayúsculas
